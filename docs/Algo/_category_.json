@@ -1,0 +1,8 @@
+{
+    "label": "Algo",
+    "position": 3,
+    "link": {
+        "type": "generated-index",
+        "description": "A curated collection of algorithms, from foundational basics to advanced problem-solving techniques, designed to help you understand concepts deeply and apply them with confidence."
+    }
+}

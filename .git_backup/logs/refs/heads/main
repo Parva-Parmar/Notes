@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 8a74dd20dc36d3a090892ce989135cf4d1bbf079 Parva Parmar <parva004cp@gmail.com> 1754570654 +0530	commit (initial): initial commit
+8a74dd20dc36d3a090892ce989135cf4d1bbf079 b7b1faacc21a599ddbbc02d160be664b7acc06c9 Parva Parmar <parva004cp@gmail.com> 1754570935 +0530	rebase (continue) (finish): refs/heads/main onto 0ecb423d7ca67edef389194235f192b9f2e67c5c
+b7b1faacc21a599ddbbc02d160be664b7acc06c9 0e36bfebfe46ec6fc585547457d74e7dbf1c13e4 Parva Parmar <parva004cp@gmail.com> 1754579294 +0530	commit: first note
+0e36bfebfe46ec6fc585547457d74e7dbf1c13e4 69028a6d5a691fec414d2965ff3d8f9e4ac81f4d Parva Parmar <parva004cp@gmail.com> 1754886709 +0530	commit: Update notes and layout
+69028a6d5a691fec414d2965ff3d8f9e4ac81f4d 2efb1a3edc2813863dab6d5cc19a9c08350ff5cc Parva Parmar <parva004cp@gmail.com> 1754888194 +0530	commit: Update socials
+2efb1a3edc2813863dab6d5cc19a9c08350ff5cc c6bb21dd2b0adcd4444d3f5dde9a2ec8596095a6 Parva Parmar <parva004cp@gmail.com> 1754889368 +0530	commit: added analytics
+c6bb21dd2b0adcd4444d3f5dde9a2ec8596095a6 9c39d986b9300bf1cea7eb8d8ff50cdef7dbe16e Parva Parmar <parva004cp@gmail.com> 1754891077 +0530	commit: intro
+9c39d986b9300bf1cea7eb8d8ff50cdef7dbe16e f5b6ca1124d8e95cc9ce12d071a1f13f7694f954 Parva Parmar <parva004cp@gmail.com> 1754935497 +0530	commit: converted js to ts
+f5b6ca1124d8e95cc9ce12d071a1f13f7694f954 09517b294211dc97fbce5d03d9686334ab9fb91a Parva Parmar <parva004cp@gmail.com> 1754937757 +0530	commit: added hands on list for shell
+09517b294211dc97fbce5d03d9686334ab9fb91a 4dc76bf7e5608e77b0518e958dc4fa98d47a5ba5 Parva Parmar <parva004cp@gmail.com> 1754982383 +0530	commit: updated list
+4dc76bf7e5608e77b0518e958dc4fa98d47a5ba5 c1ee6e456ca0a656280a8f28489bdf6a55dfca8d Parva Parmar <parva004cp@gmail.com> 1754983751 +0530	commit: added leetcode questions
+c1ee6e456ca0a656280a8f28489bdf6a55dfca8d ef6496da6ebfe443981cb098cce2a94a68a4535a Parva Parmar <parva004cp@gmail.com> 1754988634 +0530	commit: ss slides
+ef6496da6ebfe443981cb098cce2a94a68a4535a f3504717f73c9c51c2a18195e54f2b17009cf999 Parva Parmar <parva004cp@gmail.com> 1754990993 +0530	commit: minor updates
