@@ -3,7 +3,7 @@ title: 📚Lecture 1 Notes
 sidebar_position: 1
 ---
 
-# 🎓 Algorithms – Lecture 1 (Senior's Notes)
+# 🎓 Algorithms – Lecture 1  
 
 These are the **first lecture notes** of our **Algorithms** course, graciously shared by seniors who’ve already taken this class.  
 They cover the **core concepts introduced in the first lecture**, helping you start the course with a clear foundation.  

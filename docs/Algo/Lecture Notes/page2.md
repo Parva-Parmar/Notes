@@ -3,7 +3,7 @@ title: 📚 Lecture 2 Notes
 sidebar_position: 2
 ---
 
-# 🎓 Algorithms – Lecture 2 (Senior's Notes)
+# 🎓 Algorithms – Lecture 2  
 
 These are the **second lecture notes** of our **Algorithms** course, graciously shared by seniors who’ve already taken this class.  
 They continue building on the fundamentals introduced in Lecture 1, diving deeper into algorithm design and analysis.  
